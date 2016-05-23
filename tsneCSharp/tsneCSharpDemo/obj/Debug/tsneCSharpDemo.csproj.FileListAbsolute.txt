@@ -1,0 +1,11 @@
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\bin\Debug\tsneCSharpDemo.exe.config
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\bin\Debug\tsneCSharpDemo.exe
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\bin\Debug\tsneCSharpDemo.pdb
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\bin\Debug\tsneCSharp.dll
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\bin\Debug\tsneCSharp.pdb
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.csprojResolveAssemblyReference.cache
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.frmMain.resources
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.Properties.Resources.resources
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.csproj.GenerateResource.Cache
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.exe
+C:\Work\공공복지안전연구사업\통합어플리케이션\tsneCSharp\tsneCSharpDemo\obj\Debug\tsneCSharpDemo.pdb
